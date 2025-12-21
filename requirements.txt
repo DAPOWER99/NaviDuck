@@ -1,0 +1,12 @@
+# Core Requirements
+requests>=2.31.0
+
+# Optional - For better Windows support
+pywin32>=306; sys_platform == 'win32'
+
+# Optional - For additional features (if you expand the code)
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+selenium>=4.15.0
+colorama>=0.4.6
+prompt-toolkit>=3.0.0
