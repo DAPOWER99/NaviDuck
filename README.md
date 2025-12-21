@@ -89,7 +89,7 @@ Tired of bloated browsers? NaviDuck brings web browsing to your terminal with st
 #### Method 1: Direct Download
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/naviduck.git
+git clone https://github.com/DAPOWER99/naviduck.git
 cd naviduck
 
 # Install required package
@@ -109,7 +109,7 @@ naviduck
 #### Method 3: Development Setup
 ```bash
 # Clone and setup development environment
-git clone https://github.com/yourusername/naviduck.git
+git clone https://github.com/DAPOWER99/naviduck.git
 cd naviduck
 
 # Create virtual environment
@@ -634,7 +634,7 @@ We love contributions! Here's how you can help:
 
 ```bash
 # Fork and clone
-git clone https://github.com/yourusername/naviduck.git
+git clone https://github.com/DAPOWER99/naviduck.git
 cd naviduck
 
 # Create feature branch
@@ -709,9 +709,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Project Links
 
-- **GitHub Repository**: [github.com/yourusername/naviduck](https://github.com/yourusername/naviduck)
-- **Issue Tracker**: [github.com/yourusername/naviduck/issues](https://github.com/yourusername/naviduck/issues)
-- **Discussion Forum**: [GitHub Discussions](https://github.com/yourusername/naviduck/discussions)
+- **GitHub Repository**: [github.com/DAPOWER99/naviduck](https://github.com/DAPOWER99/naviduck)
+- **Issue Tracker**: [github.com/DAPOWER99/naviduck/issues](https://github.com/DAPOWER99/naviduck/issues)
+- **Discussion Forum**: [GitHub Discussions](https://github.com/DAPOWER99/naviduck/discussions)
 
 ### Support
 
@@ -767,8 +767,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the terminal community**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/naviduck&type=Date)](https://star-history.com/#yourusername/naviduck&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=DAPOWER99/naviduck&type=Date)](https://star-history.com/#DAPOWER99/naviduck&Date)
 
 *If you enjoy NaviDuck, please consider giving it a ⭐ on GitHub!*
+
 
 </div>
