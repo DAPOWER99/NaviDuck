@@ -94,7 +94,8 @@ cd naviduck
 
 # Install required package
 pip install requests
-# Or Like This 
+
+# Or Install Like This 
 pip install -r requirements.txt
 
 # Run NaviDuck
@@ -779,6 +780,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 </div>
+
 
 
 
