@@ -404,7 +404,7 @@ responses = {
 
 ```bash
 # Windows (using Tor Browser)
-# Tor should be at: D:\APPS&DATA\Tor Browser\Browser\TorBrowser\Tor\tor.exe
+# Tor should be at: D:\APPS&DATA\Tor Browser\Browser\TorBrowser\Tor\tor.exe **(this is a development path and will be changed in the future)**
 
 # Linux
 sudo apt install tor
@@ -773,3 +773,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 </div>
+
