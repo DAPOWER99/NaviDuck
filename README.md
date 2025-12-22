@@ -94,11 +94,16 @@ cd naviduck
 
 # Install required package
 pip install requests
+# Or Like This 
+pip install -r requirements.txt
 
 # Run NaviDuck
 python main.py
 ```
-
+```bash
+# You Can Use A One Line Install 
+git clone https://github.com/DAPOWER99/NaviDuck.git && cd NaviDuck && pip install -r requirements.txt && python naviduck.py
+```
 #### Method 2: Using pip (Coming Soon)
 ```bash
 # Once published
@@ -773,4 +778,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 </div>
+
 
