@@ -100,8 +100,7 @@ pip install -r requirements.txt
 # Run NaviDuck
 python main.py
 ```
-# **For Terminal Experts**
-# **(That Want An Installer Command That Is Exactly One Line)**
+# **For Terminal Experts** **(That Want An Installer Command That Is Exactly One Line)**
 ```bash
 # You Can Use A One Line Install 
 git clone https://github.com/DAPOWER99/NaviDuck.git && cd NaviDuck && pip install -r requirements.txt && python naviduck.py
@@ -780,6 +779,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 </div>
+
 
 
 
