@@ -524,7 +524,7 @@ class NaviDuckPlugin:
 ---
 
 ## 🏗️ Architecture
-**[Click Me For More Information On The Architecture Of NaviDuck.](https://github.com/DAPOWER99/NaviDuck/wiki/Architecture)**
+<a href="https://github.com/DAPOWER99/NaviDuck/wiki/Architecture" style="text-decoration: underline; color: blue; font-weight: bold;">Click Me For More Information On The Architecture Of NaviDuck.</a>
 ### Component Overview
 
 ```
@@ -780,6 +780,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 </div>
+
 
 
 
